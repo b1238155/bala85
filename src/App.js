@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-      <h1>Hello Bala</h1>
+      
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -19,7 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+        <h2>Hello JP</h2>
+         <h3>Hello Mahe</h3>
+        </div>
   );
 }
 
